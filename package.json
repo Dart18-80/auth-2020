@@ -8,8 +8,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "firebase": "^8.7.1",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
+    "vue-spinner": "^1.0.4",
+    "vuelidate": "^0.7.7",
     "vuex": "^4.0.0-0"
   },
   "devDependencies": {
